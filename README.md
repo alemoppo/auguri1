@@ -1,2 +1,1 @@
-auguri1
-=======
+Program write "Auguri" in crasy mode!
