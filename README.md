@@ -1,1 +1,1 @@
-Program writes "Auguri" in crasy mode!
+Program writes "Auguri" in crazy mode!
